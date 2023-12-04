@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Home test git </title>
+	<title>Home test git 2</title>
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
